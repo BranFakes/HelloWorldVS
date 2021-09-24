@@ -12,7 +12,8 @@ int main()
     std::cout << "*walks through protal*\n";
     std::cout << "Richtophen... hell was that?\n";
     std::cout << "Plans have... been changed, Dempsey.\n";
-    std::cout << "We must go comrades, *they8 are coming.\n";
+    std::cout << "We must go comrades, *they are coming.\n";
+    std::cout << "You do not want to see whats on the other side of that door!\n";
 
 
     system("pause>0");
