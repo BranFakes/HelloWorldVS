@@ -10,6 +10,9 @@ int main()
     std::cout << "Read it again!\n";
     std::cout << "the pages they... YOU SON OF A B-\n";
     std::cout << "*walks through protal*\n";
+    std::cout << "*Richtophen... hell was that?*\n";
+
+
 
 
     system("pause>0");
