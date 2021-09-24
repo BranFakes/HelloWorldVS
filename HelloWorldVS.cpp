@@ -14,6 +14,7 @@ int main()
     std::cout << "Plans have... been changed, Dempsey.\n";
     std::cout << "We must go comrades, *they are coming.\n";
     std::cout << "You do not want to see whats on the other side of that door!\n";
+    std::cout << "*Button clicks, Door slides*\n";
 
 
     system("pause>0");
